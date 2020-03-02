@@ -1,0 +1,1227 @@
+/
+
+/
+/
+
+/ //
+
+Sport.ua <https://sport.ua/uk>
+
+  * Футбол <https://sport.ua/uk/football>
+  * Бокс <https://sport.ua/uk/box>
+  * Теніс <https://sport.ua/uk/tennis>
+  * Баскетбол <https://sport.ua/uk/basketball>
+  * Біатлон <https://sport.ua/uk/biathlon>
+  * Хокей <https://sport.ua/uk/hockey>
+  * MMA <https://sport.ua/uk/mma>
+  * Футзал <https://sport.ua/uk/futsal>
+
+UA <#>/RU
+<https://sport.ua/news/475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya>
+
+/
+
+/Матч-центр <https://sport.ua/uk/live>
+//
+//
+
+/
+
+/
+
+// <#>
+Гість Вхід <#>  /  Зареєструватися <#>
+//
+
+  *
+    /
+
+    /Новини <https://sport.ua/uk/news>
+  *
+    /
+
+    /Відео <https://sport.ua/uk/news/video>
+  *
+    /
+
+    /Прогнози <https://sport.ua/uk/forecasts>
+
+  *
+    /
+
+    /Футбол <https://sport.ua/uk/football>//
+    /
+
+    /Назад
+    ФутболВ розділ
+      o Футбол України
+      o Прем'єр ліга <https://sport.ua/uk/4u/1-premyer-liga>
+      o Кубок України <https://sport.ua/uk/cup>
+      o Перша ліга <https://sport.ua/uk/4u/2-pervaya-liga>
+      o Друга ліга А <https://sport.ua/uk/4u/6-vtoraya-liga-gr-a>
+      o Друга ліга Б <https://sport.ua/uk/4u/7-vtoraya-liga-gr-b>
+      o Український футбол <https://sport.ua/uk/4u>
+      o Єврокубки
+      o Ліга Чемпіонів УЄФА <https://sport.ua/uk/cl>
+      o Ліга Європи <https://sport.ua/uk/uefa>
+      o Популярні клуби
+      o Ліверпуль <https://sport.ua/uk/football/teams/98-liverpul>
+      o Шахтар <https://sport.ua/uk/football/teams/2-shahter-donetsk>
+      o Барселона <https://sport.ua/uk/football/teams/118-barselona>
+      o Динамо <https://sport.ua/uk/football/teams/4-dinamo-kiev>
+      o Реал Мадрид <https://sport.ua/uk/football/teams/117-real-madrid>
+      o Країни
+      o Англія <https://sport.ua/uk/football/england>
+      o Німеччина <https://sport.ua/uk/football/germany>
+      o Іспанія <https://sport.ua/uk/football/spain>
+      o Італія <https://sport.ua/uk/football/italy>
+      o Франція <https://sport.ua/uk/football/france>
+      o Аргентина
+        <https://sport.ua/uk/football/results/argentina/109/fixture>
+      o Бельгія <https://sport.ua/uk/football/results/belgium/111/fixture>
+      o Бразилія <https://sport.ua/uk/football/results/brazil/117/fixture>
+      o Греція <https://sport.ua/uk/football/results/greece/110/fixture>
+      o Нідерланди
+        <https://sport.ua/uk/football/results/holland/107/fixture>
+      o Польща <https://sport.ua/uk/football/results/poland/105/fixture>
+      o Португалія
+        <https://sport.ua/uk/football/results/portugal/106/fixture>
+      o Росія <https://sport.ua/uk/football/russia>
+      o Румунія <https://sport.ua/uk/football/results/romania/127/fixture>
+      o Туреччина <https://sport.ua/uk/football/results/turkey/108/fixture>
+      o
+        /
+
+        /Інші країни//
+        /
+
+        /Назад
+          + Аргентина
+            <https://sport.ua/uk/football/results/argentina/109/fixture>
+          + Бельгія
+            <https://sport.ua/uk/football/results/belgium/111/fixture>
+          + Бразилія
+            <https://sport.ua/uk/football/results/brazil/117/fixture>
+          + Греція <https://sport.ua/uk/football/results/greece/110/fixture>
+          + Нідерланди
+            <https://sport.ua/uk/football/results/holland/107/fixture>
+          + Польща <https://sport.ua/uk/football/results/poland/105/fixture>
+          + Португалія
+            <https://sport.ua/uk/football/results/portugal/106/fixture>
+          + Росія <https://sport.ua/uk/football/russia>
+          + Румунія
+            <https://sport.ua/uk/football/results/romania/127/fixture>
+          + Туреччина
+            <https://sport.ua/uk/football/results/turkey/108/fixture>
+      o Міжнародні
+      o Ліга націй УЄФА <https://sport.ua/uk/nationsleague>
+      o Євро-2020 <https://sport.ua/uk/euro>
+      o ЧС-2018 <https://sport.ua/uk/worldcup2018>
+      o Кубок Америки <https://sport.ua/uk/copa-america>
+      o Кубок Африки <https://sport.ua/uk/africancup>
+      o Кубок конфедерацій <https://sport.ua/uk/confcup2017>
+      o Рейтинги
+      o Рейтинг УЄФА <https://sport.ua/uk/ranking/uefa>
+      o Рейтинг ФІФА <https://sport.ua/uk/ranking/fifa>
+      o Рейтинг клубів <https://sport.ua/uk/ranking/clubs>
+  *
+    /
+
+    /Бокс <https://sport.ua/uk/box>//
+    /
+
+    /Назад
+    БоксВ розділ
+      o WBA <https://sport.ua/uk/box/wba>
+      o WBC <https://sport.ua/uk/box/wbc>
+      o WBO <https://sport.ua/uk/box/wbo>
+      o IBF <https://sport.ua/uk/box/ibf>
+  *
+    /
+
+    /Теніс <https://sport.ua/uk/tennis>//
+    /
+
+    /Назад
+    ТенісВ розділ
+      o Australian Open <https://sport.ua/uk/tennis/australian-open>
+      o Roland-Garros <https://sport.ua/uk/tennis/roland-garros>
+      o Wimbledon <https://sport.ua/uk/tennis/wimbledon>
+      o US Open <https://sport.ua/uk/tennis/us-open>
+      o ATP <https://sport.ua/uk/tennis/atp>
+      o WTA <https://sport.ua/uk/tennis/wta>
+      o ITF <https://sport.ua/uk/tennis/itf>
+  *
+    /
+
+    /Баскетбол <https://sport.ua/uk/basketball>//
+    /
+
+    /Назад
+    БаскетболВ розділ
+      o НБА <https://sport.ua/uk/basketball/nba>
+      o Чемпіонат України <https://sport.ua/uk/basketball/4u>
+  *
+    /
+
+    /Біатлон <https://sport.ua/uk/biathlon>//
+    /
+
+    /Назад
+    БіатлонВ розділ
+      o Кубок світу <https://sport.ua/uk/biathlon/worldcup>
+      o Кубок націй <https://sport.ua/uk/biathlon/nationcup>
+      o Чемпіонат Європи <https://sport.ua/uk/biathlon/4europe>
+  *
+    /
+
+    /Хокей <https://sport.ua/uk/hockey>//
+    /
+
+    /Назад
+    ХокейВ розділ
+      o УХЛ <https://sport.ua/uk/hockey/uhl>
+      o НХЛ <https://sport.ua/uk/hockey/nhl>
+      o Чемпіонат світу <https://sport.ua/uk/hockey/worldcup>
+  *
+    /
+
+    /MMA <https://sport.ua/uk/mma>//
+    /
+
+    /Назад
+    MMAВ розділ
+      o Bellator <https://sport.ua/uk/mma/bellator>
+      o UFC <https://sport.ua/uk/mma/ufc>
+  *
+    /
+
+    /Футзал <https://sport.ua/uk/futsal>//
+    /
+
+    /Назад
+    ФутзалВ розділ
+      o Чемпіонат України <https://sport.ua/uk/futsal/ukraine>
+      o Чемпіонат Європи <https://sport.ua/uk/futsal/eurocup>
+      o Чемпіонат світу <https://sport.ua/uk/futsal/worldcup>
+  *
+    /
+
+    /Інші <https://sport.ua/uk/other>//
+    /
+
+    /Назад
+    ІншіВ розділ
+      o
+        /
+
+        /Авто/Мото <https://sport.ua/uk/auto>
+        /
+
+        /
+
+        /
+
+        /Назад
+        Авто/МотоВ розділ
+          +
+            /
+
+            /Формула 1 <https://sport.ua/uk/auto/formula-1>
+      o
+        /
+
+        /Американський футбол <https://sport.ua/uk/amfoot>
+      o
+        /
+
+        /Бадмінтон <https://sport.ua/uk/news/other/badminton>
+      o
+        /
+
+        /Бобслей <https://sport.ua/uk/news/winter/bobslej>
+      o
+        /
+
+        /Боротьба <https://sport.ua/uk/news/other/borba>
+      o
+        /
+
+        /Велоспорт <https://sport.ua/uk/news/other/velosport>
+      o
+        /
+
+        /Водне поло <https://sport.ua/uk/news/water/vodnoe-polo>
+      o
+        /
+
+        /Водні види <https://sport.ua/uk/water>
+      o
+        /
+
+        /Волейбол <https://sport.ua/uk/volleyball>
+        /
+
+        /
+
+        /
+
+        /Назад
+        ВолейболВ розділ
+          +
+            /
+
+            /Чемпіонат світу <https://sport.ua/uk/volleyball/worldcup>
+      o
+        /
+
+        /Гандбол <https://sport.ua/uk/handball>
+        /
+
+        /
+
+        /
+
+        /Назад
+        ГандболВ розділ
+          +
+            /
+
+            /Ліга чемпіонів <https://sport.ua/uk/handball/champion-league>
+          +
+            /
+
+            /Чемпіонат світу <https://sport.ua/uk/handball/worldcup>
+      o
+        /
+
+        /Гольф <https://sport.ua/uk/news/other/golf>
+      o
+        /
+
+        /Гребля <https://sport.ua/uk/news/water/greblya>
+      o
+        /
+
+        /Дзюдо <https://sport.ua/uk/news/other/dzyudo>
+      o
+        /
+
+        /Зимові види <https://sport.ua/uk/winter>
+      o
+        /
+
+        /Керлінг <https://sport.ua/uk/news/winter/kerling>
+      o
+        /
+
+        /Кіберспорт <https://sport.ua/uk/cyber>
+        /
+
+        /
+
+        /
+
+        /Назад
+        КіберспортВ розділ
+          +
+            /
+
+            /Dota 2 <https://sport.ua/uk/cyber/dota2>
+          +
+            /
+
+            /Counter-Strike <https://sport.ua/uk/cyber/counter-strike>
+          +
+            /
+
+            /FIFA <https://sport.ua/uk/cyber/fifa>
+          +
+            /
+
+            /League of Legends <https://sport.ua/uk/cyber/league-of-legends>
+          +
+            /
+
+            /World of Tanks <https://sport.ua/uk/cyber/world-of-tanks>
+      o
+        /
+
+        /Ковзанярський спорт
+        <https://sport.ua/uk/news/winter/konkobezhnyj-sport>
+      o
+        /
+
+        /Кросфіт <https://sport.ua/uk/crossfit>
+      o
+        /
+
+        /Легка атлетика <https://sport.ua/uk/news/other/legkaya-atletika>
+      o
+        /
+
+        /Лижний спорт <https://sport.ua/uk/ski>
+      o
+        /
+
+        /Міні-футбол <https://sport.ua/uk/minifootball>
+      o
+        /
+
+        /Олімпіада <https://sport.ua/uk/olympic>
+      o
+        /
+
+        /Вітрильний спорт <https://sport.ua/uk/news/water/parusnyj-sport>
+      o
+        /
+
+        /Плавання <https://sport.ua/uk/news/water/plavanie>
+      o
+        /
+
+        /Пляжний футбол <https://sport.ua/uk/beachsoccer>
+      o
+        /
+
+        /Покер <https://sport.ua/uk/poker>
+      o
+        /
+
+        /Стрибки у воду <https://sport.ua/uk/news/water/pryzhki-v-vodu>
+      o
+        /
+
+        /Стрибки з трампліну
+        <https://sport.ua/uk/news/winter/pryzhki-s-tramplina>
+      o
+        /
+
+        /Регбі <https://sport.ua/uk/rugby>
+      o
+        /
+
+        /Санний спорт <https://sport.ua/uk/news/winter/luge>
+      o
+        /
+
+        /Синхронне плавання
+        <https://sport.ua/uk/news/water/sinhronnoe-plavanie>
+      o
+        /
+
+        /Снукер <https://sport.ua/uk/snooker>
+        /
+
+        /
+
+        /
+
+        /Назад
+        СнукерВ розділ
+          +
+            /
+
+            /Чемпіонат світу <https://sport.ua/uk/snooker/worldcup>
+      o
+        /
+
+        /Спортивна гімнастика
+        <https://sport.ua/uk/news/other/sportivnaya-gimnastika>
+      o
+        /
+
+        /Стрільба <https://sport.ua/uk/news/other/strelba>
+      o
+        /
+
+        /Важка атлетика <https://sport.ua/uk/news/other/tyazhelaya-atletika>
+      o
+        /
+
+        /Художня гімнастика <https://sport.ua/uk/rg>
+      o
+        /
+
+        /Фехтування <https://sport.ua/uk/news/other/fehtovanie>
+      o
+        /
+
+        /Шахи <https://sport.ua/uk/chess>
+        /
+
+        /
+
+        /
+
+        /Назад
+        ШахиВ розділ
+          +
+            /
+
+            /Чемпіонат світу <https://sport.ua/uk/chess/worldcup>
+
+  *
+    /
+
+    /Блоги <https://sport.ua/uk/blogs>
+  *
+    /
+
+    /Lifestyle <https://sport.ua/uk/lifestyle>
+  *
+    /
+
+    /Трансфери <https://sport.ua/uk/transfers>
+
+  *
+    /
+
+    /Ставки <https://sport.ua/uk/betting>//
+    /
+
+    /Назад
+    СтавкиВ розділ
+      o
+        /
+
+        /Рейтинг букмекерів <https://sport.ua/uk/betting/bookmakers>
+      o
+        /
+
+        /Рейтинг кібербукмекерів <https://sport.ua/uk/cyberbookmakers>
+  *
+    /
+
+    /ТВ-програма <https://sport.ua/uk/tv>
+  *
+    /
+
+    /Фан-тури <https://sport.ua/uk/news/tags/49902-fan-tur>
+  *
+    /
+
+    /Спортивний календар
+    <https://sport.ua/uk/news/472501-sportivniy-kalendar-na-2020-god>
+  *
+    /
+
+    /Словник <https://sport.ua/uk/sport-wiki>
+
+  *
+    /
+
+    /Політика конфіденційності
+    <https://sport.ua/uk/confidentiality-agreement>
+  *
+    /
+
+    /Реклама на сайті <https://sport.ua/uk/advertising>
+  *
+    /
+
+    /Контакти <https://sport.ua/uk/contacts>
+
+Ми у соцмережах
+
+<https://www.facebook.com/thesportua>
+<https://t.me/joinchat/AAAAAE8zcQmXKhJx0Jw4jQ>
+<https://www.youtube.com/c/sportua> <https://www.instagram.com/sportua/>
+
+<http://z.cdn.adbetnet.com/go?z=1810197258&m=2016043873&c=1322806859&p0=2019362990&u=9b05d5f779e129f1&t=1580484114&n=3122349093744160991&h=3232537212>
+//
+/
+
+/
+
+  * Футбол <https://sport.ua/uk/football>
+  * Новини футболу <https://sport.ua/uk/news/football>
+  * Євро-2020
+  * Новини
+
+
+  ШЕВЧЕНКО: «Ми дуже залежні від гравців, від їх форми, стану здоров'я»
+
+
+    Головний тренер збірної України підбив підсумки виступу своєї
+    команди в кваліфікації Євро-2020
+
+  * 31.01.2020 <https://sport.ua/uk/news/calendar/2020/01/31> 13:22
+    /
+
+    /
+  * 3360 переглядів
+    /
+
+    /
+  * 0 коментарів
+    /
+
+    /
+
+  * Facebook
+    <https://www.facebook.com/sharer.php?src=sp&u=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&title=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * Twitter
+    <https://twitter.com/intent/tweet?text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+  * reddit
+    <https://www.reddit.com/submit?url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&title=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * Telegram
+    <https://telegram.me/share/url?url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * <#>
+
+<http://z.cdn.adbetnet.com/go?z=1807136980&m=1316457015&c=1903210933&p0=1941578573&u=9b05d5f779e129f1&t=1580484114&n=6176302479863234&h=475450169>
+Головнi новини
+Арсенал підписав захисника. Останній день трансферного вікна. LIVE
+<https://sport.ua/uk/news/475850-barselona-podpisala-forvarda-posledniy-den-transfernogo-okna-live>
+
+
+- Футбол 0
+/
+
+/
+11921
+/
+
+/
+Топ-10 боксерів, що опинилися у в'язниці за серйозні злочини
+<https://sport.ua/uk/news/475879-top-10-bokserov-okazavshihsya-v-tyurme-za-seryeznye-zlodeyaniya>
+
+
+- Бокс 8
+/
+
+/
+4092
+/
+
+/
+Шахтар в Туреччині: акцент на м'яч, травма Соломона, капітанська
+рокіровка
+<https://sport.ua/uk/news/475855-shahter-v-turtsii-aktsent-na-myach-travma-solomona-kapitanskaya-rokirovka>
+
+
+- Футбол 1
+/
+
+/
+3420
+/
+
+/
+ШЕВЧЕНКО: «Ми дуже залежні від гравців, від їх форми, стану здоров'я»
+© УАФ. Андрій Шевченко
+
+Головний тренер збірної України *Андрій Шевченко *поділився враженнями
+від виступу у своєї команди в кваліфікації чемпіонату Європи-2020.
+
+Нагадаємо, національна збірна України вперше в історії не зазнала жодної
+поразки протягом календарного року й посіла перше місце у відбірній
+групі Євро, на команду чекає відповідальний 2020-й рік.
+ 
+*— Пане Андрію, 2019 рік став одним із найуспішніших в історії збірної
+України. Для вас особисто його також можна додати до списку найяскравіших?*
+— Так, безумовно, це був особливий рік для мене. Я дуже задоволений тією
+роботою, яку ми провели, і не лише цього сезону. Нинішні результати — це
+плоди трирічної роботи нашого тренерського штабу. Попереду ще багато
+праці, проте приємно, що теперішні наші здобутки, перший виграш відбору
+до Євро та перший рік без поразок, уже стали рекордними.
+ 
+*— Старт у кваліфікації Євро-2020 проти чинних чемпіонів континенту на
+їхньому полі передбачав не тільки ефективну тактичну підготовку до
+матчу, але й умілу психологічну роботу. Судячи з результату, виконано її
+було на відмінно?*
+— Для нас відбір розпочинався складно. Ми отримали гру проти головного
+конкурента — Португалії, причому в гостях, на самому початку другої
+частини сезону, у березні, коли наші клуби лише відходили від
+тримісячної зимової перерви. Ми провели тактично грамотний поєдинок,
+проте я згоден, що багато що вирішив високий змагальний настрій
+футболістів. Нічия в Лісабоні стала для нас великим бонусом і надала
+впевненості для подальшої боротьби у групі.
+ 
+
+*— Чи можна, зважаючи на перебіг подій на полі, назвати перемогу в
+Люксембурзі стрижневою в плані подальшої боротьби у групі?*
+— Цей матч був лише другим у календарі нашого циклу, нам пощастило в
+кінці гри, однак навіть після цього попереду було ще шість поєдинків, і
+назвати переломною ту перемогу можна, лише якщо називати переломною
+кожну перемогу. Тоді, у березні, ми взяли чотири очки в перших двох
+матчах, і це нас цілком влаштувало.
+ 
+*— Якість дій ваших підопічних у Львові в поєдинку із Сербією вже є тим
+еталоном, до якого ви прагнете у своїй роботі?*
+— Ми провели дуже вдалий поєдинок, я читав, його тепер називають навіть
+найкращим за рівнем гри команди за всі часи. Ідеальні матчі завжди
+попереду, але цей — справді один із найкращих за той час, що я треную
+збірну. Перед матчем ми провели дуже правильну підготовку, це були
+двотижневі збори. Гра була важлива і з точки зору результату, і з точки
+зору якості футболу. У підсумку ми залишилися задоволені всім. Хочу
+також сказати про класну атмосферу на стадіоні, завдяки якій хлопці були
+заряджені на гарний результат.
+
+
+ 
+*— Спаринги з Нігерією та Естонією довели, що є ще над чим працювати в
+питаннях підготовки повноцінного резерву. Згодні?*
+— Ці поєдинки ми використали для того, аби дати змогу зіграти тим, хто
+не отримував достатньої ігрової практики в попередніх матчах. Важливо
+було, щоб резервісти відчули себе в нашій системі гри, зрозуміли
+взаємодію, свої позиції на полі.
+ 
+*— Перемога над Португалією стала кульмінацією відбору. Зараз, коли
+емоції вщухли, назвіть три головні складові того успіху.*
+— Перше — це те, що на момент гри в Києві у нас усі були в обоймі, усі
+здорові, і ми мали з кого обирати склад. Друге — це те, що футболісти
+підійшли до поєдинку в ідеальній формі, ніхто не розгубився після
+перемоги над Литвою, було одне прагнення — зіграти й перемогти. І третє
+— це емоційна складова, ми приймали португальців удома на найбільшому
+стадіоні країни, приймали їх як лідери, відчуваючи підтримку всіх
+уболівальників і загалом усієї України.
+ 
+*— Голи, забиті на останніх хвилинах у матчах із Люксембургом, Естонією,
+Сербією, свідчать про характер команди Шевченка. І це було помітно ще
+торік — у поєдинках Ліги націй із чехами та словаками...*
+— Голи на останніх хвилинах свідчать про те, що команда не змінює
+структури своєї гри, вона діє впродовж усього матчу згідно з планом. І
+коли є відчуття того, що все робиться правильно, тоді ніхто не втрачає
+холоднокровності, просто дограє все до кінця. Звідси й голи на останніх
+хвилинах чи секундах. Ми просто прагнемо перемогти.
+
+
+ 
+*— У березневих поєдинках із Францією та Польщею вже безпосередньо
+награватимете основу під Євро чи ще дозволите собі певні експерименти з
+перевіркою резерву?*
+— Ми дуже залежні від гравців, від їхньої форми, стану здоров’я. Треба
+дочекатися кінця березня, це складний для України час, подивитися, чи не
+буде травм, в якій формі будуть наші збірники, і тоді визначатися з тим,
+із кого ми обиратимемо склад.
+ 
+*— Чи планує ваш тренерський штаб переглядати наживо спаринги за участю
+майбутніх суперників по Євро — Нідерландів та Австрії, а також матчі
+плей-офф Ліги націй, де визначиться третій опонент збірної України?*
+— Ми маємо достатньо тренерів для того, аби розділитися й відвідати всі
+цікаві нам поєдинки, із цим проблем не буде.
+
+/Фото: УАФ/
+
+Читайте також: *Андрій ШЕВЧЕНКО: «У Яремчука достатньо часу для
+підготовки до Євро-2020»*
+<https://sport.ua/uk/news/475795-andrey-shevchenko-u-yaremchuka-dostatochno-vremeni-dlya-podgotovki-k-evro-2020>
+
+Sport.ua Telegram <https://t.me/joinchat/AAAAAE8zcQmXKhJx0Jw4jQ>
+Підписуйся на наш канал в Telegram
+<https://t.me/joinchat/AAAAAE8zcQmXKhJx0Jw4jQ> і дізнавайся всі
+найсвіжіші новини раніше за всіх!
+
+Джерело — Українська асоціація футболу <http://www.ffu.ua/>
+
+(1 голос)
+
+Якщо ви знайшли помилку, будь ласка, виділіть фрагмент тексту і
+натисніть Ctrl + Enter.
+
+  * 0Facebook
+    <https://www.facebook.com/sharer.php?src=sp&u=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&title=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * Twitter
+    <https://twitter.com/intent/tweet?text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+  * reddit
+    <https://www.reddit.com/submit?url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&title=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * Telegram
+    <https://telegram.me/share/url?url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&utm_source=share2>
+  * Viber
+    <viber://forward?text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2'%D1%8F%C2%BB%20https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+
+Матеріали по темі
+Квитки на матч Франція - Україна надійшли в продаж
+<https://sport.ua/uk/news/475860-bilety-na-match-frantsiya-ukraina-postupili-v-prodazhu>
+
+Квитки на матч Франція - Україна надійшли в продаж
+<https://sport.ua/uk/news/475860-bilety-na-match-frantsiya-ukraina-postupili-v-prodazhu>
+КОСТЕВИЧ: «Чекав виклику в збірну, коли Шевчук завершив виступи»
+<https://sport.ua/uk/news/475846-kostevich-zhdal-vyzova-v-sbornuyu-kogda-shevchuk-zavershil-vystupleniya>
+
+КОСТЕВИЧ: «Чекав виклику в збірну, коли Шевчук завершив виступи»
+<https://sport.ua/uk/news/475846-kostevich-zhdal-vyzova-v-sbornuyu-kogda-shevchuk-zavershil-vystupleniya>
+Андрій ШЕВЧЕНКО: «У Яремчука достатньо часу для підготовки до Євро-2020»
+<https://sport.ua/uk/news/475795-andrey-shevchenko-u-yaremchuka-dostatochno-vremeni-dlya-podgotovki-k-evro-2020>
+
+Андрій ШЕВЧЕНКО: «У Яремчука достатньо часу для підготовки до Євро-2020»
+<https://sport.ua/uk/news/475795-andrey-shevchenko-u-yaremchuka-dostatochno-vremeni-dlya-podgotovki-k-evro-2020>
+ФОТО. Шевченко потренувався з українськими зірками тенісу
+<https://sport.ua/uk/news/475738-foto-shevchenko-potrenirovalsya-s-ukrainskimi-zvezdami-tennisa>
+
+ФОТО. Шевченко потренувався з українськими зірками тенісу
+<https://sport.ua/uk/news/475738-foto-shevchenko-potrenirovalsya-s-ukrainskimi-zvezdami-tennisa>
+Мітки
+
+  * Андрій Шевченко <https://sport.ua/uk/news/tags/171-andrey-shevchenko>
+  * збірна України з футболу
+    <https://sport.ua/uk/news/tags/24480-sbornaya-ukrainy-po-futbolu>
+  * Євро-2020 <https://sport.ua/uk/news/tags/26995-evro-2020>
+
+Новини партнерiв
+Чарівна дружина новачка лондонського Арсеналу Пабло Марі вже готова
+підкорювати Англію. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1580306534-charivna-druzhina-novachka-londonskogo-arsenalu-pablo-mari-vzhe-gotova-pidkoryuvati-angliyu-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Чарівна дружина новачка лондонського Арсеналу Пабло Марі вже готова
+підкорювати Англію. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1580306534-charivna-druzhina-novachka-londonskogo-arsenalu-pablo-mari-vzhe-gotova-pidkoryuvati-angliyu-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Колишня повія готується випустити книгу про секс з Уейном Руні. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1556434323-kolishnya-poviya-gotuyetsya-vipustiti-knigu-pro-seks-z-ueynom-runi-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Колишня повія готується випустити книгу про секс з Уейном Руні. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1556434323-kolishnya-poviya-gotuyetsya-vipustiti-knigu-pro-seks-z-ueynom-runi-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Кріштіану Роналду витратив 11 мільйонів євро на найдорожчий автомобіль у
+світі. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1556701856-krishtianu-ronaldu-vitrativ-11-milyoniv-yevro-na-naydorozhchiy-avtomobil-u-sviti-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Кріштіану Роналду витратив 11 мільйонів євро на найдорожчий автомобіль у
+світі. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1556701856-krishtianu-ronaldu-vitrativ-11-milyoniv-yevro-na-naydorozhchiy-avtomobil-u-sviti-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Андрій Ярмоленко проспорив дружині похід в лондонську оперу. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1580135806-andriy-yarmolenko-prosporiv-druzhini-pohid-v-londonsku-operu-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Андрій Ярмоленко проспорив дружині похід в лондонську оперу. ФОТО
+<https://www.ua-football.com/ua/lifestyle/ls-news/1580135806-andriy-yarmolenko-prosporiv-druzhini-pohid-v-londonsku-operu-foto.html?utm_source=sportua&utm_medium=change&utm_campaign=informer>
+Завантаження...
+<https://www.idealmedia.io/pnews/8257927/i/2710/pp/1/1/?h=9DRs7r_TysNOyMy8aLxSvks8kNGw2HMQjkbth5QVgM_iF70jfkDOS5pAv5KoOaum&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+Тайсон: Мой контракт с Шахтером закончится и я вернусь в Бразилию
+<https://www.idealmedia.io/pnews/8257927/i/2710/pp/1/1/?h=9DRs7r_TysNOyMy8aLxSvks8kNGw2HMQjkbth5QVgM_iF70jfkDOS5pAv5KoOaum&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+<https://www.idealmedia.io/pnews/8184705/i/2710/pp/2/1/?h=9DRs7r_TysNOyMy8aLxSvq_TAlCwZ21qKu26NmuVW7MaZ2x08SghVjVHr0M097Da&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+Як виглядають дами, з якими треба економити сили гравцям Інтера
+<https://www.idealmedia.io/pnews/8184705/i/2710/pp/2/1/?h=9DRs7r_TysNOyMy8aLxSvq_TAlCwZ21qKu26NmuVW7MaZ2x08SghVjVHr0M097Da&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+<https://www.idealmedia.io/pnews/8258592/i/2710/pp/3/1/?h=9DRs7r_TysNOyMy8aLxSvhlQqxcblMVBENzrDDUBSA3lbRUontQW7GjFfe8Wo3QJ&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+Тайсон: Контракт з Шахтарем закінчується і я повернуся в Бразилію
+<https://www.idealmedia.io/pnews/8258592/i/2710/pp/3/1/?h=9DRs7r_TysNOyMy8aLxSvhlQqxcblMVBENzrDDUBSA3lbRUontQW7GjFfe8Wo3QJ&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+<https://www.idealmedia.io/pnews/8191903/i/2710/pp/4/1/?h=9DRs7r_TysNOyMy8aLxSvo1FNKUESHko0JlBE5hzw75Tg-27OT7xG1h3K8c9T_Vy&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+Жена Шумахера впервые прокомментировала состояние его здоровья
+<https://www.idealmedia.io/pnews/8191903/i/2710/pp/4/1/?h=9DRs7r_TysNOyMy8aLxSvo1FNKUESHko0JlBE5hzw75Tg-27OT7xG1h3K8c9T_Vy&utm_campaign=sport.ua&utm_source=sport.ua&utm_medium=referral&rid=6a272ab3-443d-11ea-b3b5-d09466694b4c&ts=sport.ua&tt=Referral&cpm=1>
+Коментарі
+
+    Коментарі відсутні. Ви можете стати першим.
+
+    Коментарі відсутні. Ви можете стати першим.
+
+Ви не авторизовані.
+Якщо ви хочете залишати коментарі, будь ласка, *авторизуйтесь* <#>.
+Якщо ви не маєте облікового запису, ви повинні *зареєструватися* <#>.
+<#>
+
+<http://z.cdn.adbetnet.com/go?z=1572598456&m=1433193041&c=1897657048&p0=1391071531&p1=1463644551&p2=1237769644&u=9b05d5f779e129f1&t=1580484114&n=4585841806761399993&h=2010486348>
+Спортивні новини
+Останні
+
+Популярні
+
+  * 17:17	*ФОТО. ТАЙСОН: «Велику несправедливість можна вирішити трьома
+    способами»*
+    <https://sport.ua/uk/news/475893-foto-tayson-bolshuyu-nespravedlivost-mozhno-reshit-tremya-sposobami>
+    // - Футбол 2
+    /
+
+    / 227
+    /
+
+    /
+  * 17:14	*Ілля ЗАБАРНИЙ: «Відчув високий рівень основної команди
+    Динамо»*
+    <https://sport.ua/uk/news/475892-ilya-zabarnyy-pochuvstvoval-vysokiy-uroven-osnovnoy-komandy-dinamo>
+    - Футбол 127
+    /
+
+    /
+  * 17:10	*Де дивитися онлайн матч чемпіонату Англії Ліверпуль –
+    Саутгемптон*
+    <https://sport.ua/uk/news/475890-gde-smotret-onlayn-match-chempionata-anglii-liverpul-sautgempton>
+    - Футбол 282
+    /
+
+    /
+  * 17:00	*Арсенал підписав захисника. Останній день трансферного вікна.
+    LIVE*
+    <https://sport.ua/uk/news/475850-barselona-podpisala-forvarda-posledniy-den-transfernogo-okna-live>
+    // - Футбол 11921
+    /
+
+    /
+  * 16:53	*Манчестер Юнайтед підписав 20-річного воротаря Бішопа*
+    <https://sport.ua/uk/news/475891-manchester-yunayted-podpisal-20-letnego-vratarya-bishopa>
+    - Футбол 184
+    /
+
+    /
+  * 16:50	*Матвієнко поки залишається в Шахтарі. Арсенал закінчив з
+    трансферами*
+    <https://sport.ua/uk/news/475889-matvienko-poka-ostaetsya-v-shahtere-arsenal-zakonchil-s-transferami>
+    - Футбол 3
+    /
+
+    / 1023
+    /
+
+    /
+  * 16:34	*Людмила КІЧЕНОК: «На Олімпіаді хочемо виступати з сестрою в
+    парі»*
+    <https://sport.ua/uk/news/475885-lyudmila-kichenok-na-olimpiade-hotim-vystupat-s-sestroy-v-pare>
+    - Теніс 1
+    /
+
+    / 343
+    /
+
+    /
+  * 16:30	*Ліверпуль хоче віддати Клайна в оренду*
+    <https://sport.ua/uk/news/475888-liverpul-hochet-otdat-klayna-v-arendu>
+    - Футбол 530
+    /
+
+    /
+  * 16:28	*Реал Мадрид – Атлетіко Мадрид. Текстова трансляція матчу*
+    <https://sport.ua/uk/news/475886-real-madrid-atletiko-madrid-tekstovaya-translyatsiya-matcha>
+    - Футбол 387
+    /
+
+    /
+  * 16:14	*Зідан не відпустить Бейла в Тоттенхем*
+    <https://sport.ua/uk/news/475882-zidan-ne-otpustit-beyla-v-tottenhem> -
+    Футбол 796
+    /
+
+    /
+  * 16:13	*КОНОПЛЯНКА: «У Шахтаря просто персикові збори. Найгірші були
+    у Рамоса»*
+    <https://sport.ua/uk/news/475880-konoplyanka-u-shahtera-prosto-persikovye-sbory-hudshie-byli-u-ramosa>
+    - Футбол 9
+    /
+
+    / 2893
+    /
+
+    /
+  * 16:11	*Реал - Атлетико. Де дивитися онлайн матч чемпіонату Іспанії*
+    <https://sport.ua/uk/news/475883-real-atletiko-gde-smotret-onlayn-match-chempionata-ispanii>
+    - Футбол 423
+    /
+
+    /
+  * 16:09	*Реал – Атлетіко. Текстова трансляція матчу*
+    <https://sport.ua/uk/news/475884-real-atletiko-tekstovaya-translyatsiya-matcha>
+    - Футбол 225
+    /
+
+    /
+  * 16:08	*ЮЧС-2020 з біатлону. Юлія Городна зайняла 25 місце*
+    <https://sport.ua/uk/news/475881-yuchm-2020-po-biatlonu-yuliya-gorodna-zanyala-25-mesto>
+    - Біатлон 494
+    /
+
+    /
+  * 15:55	*Тайсон Ф'ЮРІ: Бій з Вайлдером - найважливіший серед
+    супертяжів з 2002 року*
+    <https://sport.ua/uk/news/475877-tayson-fyuri-boy-s-uaylderom-samiy-vazhniy-sredi-supertyazhey-s-2002-goda>
+    - Бокс 1
+    /
+
+    / 1336
+    /
+
+    /
+  * 15:52	*Реал - Атлетико. Прогноз і анонс на матч чемпіонату Іспанії*
+    <https://sport.ua/uk/news/475876-real-atletiko-prognoz-i-anons-na-match-chempionata-ispanii>
+    - Футбол 471
+    /
+
+    /
+  * 15:42	*Топ-10 боксерів, що опинилися у в'язниці за серйозні злочини*
+    <https://sport.ua/uk/news/475879-top-10-bokserov-okazavshihsya-v-tyurme-za-seryeznye-zlodeyaniya>
+    // - Бокс 8
+    /
+
+    / 4092
+    /
+
+    /
+  * 15:41	*Олімпік проведе п'ять товариських матчів на другому зборі*
+    <https://sport.ua/uk/news/475878-olimpik-provedet-pyat-tovarishcheskih-matchey-na-vtorom-sbore>
+    - Футбол 297
+    /
+
+    /
+  * 15:26	*Динамо: Каргбо вибув на невизначений термін*
+    <https://sport.ua/uk/news/475874-dinamo-kargbo-vybyl-na-neopredelenniy-srok>
+    - Футбол 1
+    /
+
+    / 4792
+    /
+
+    /
+  * 15:24	*Грачов покинув Чорноморець*
+    <https://sport.ua/uk/news/475875-grachev-pokinul-chernomorets> -
+    Футбол 713
+    /
+
+    /
+
+  * 19:00	*Біатлонний сезон-2019/20: розклад, анонси, трансляції,
+    результати*
+    <https://sport.ua/uk/news/450999-biatlonniy-sezon-201920-raspisanie-anonsy-translyatsii-rezultaty>
+    // - Біатлон 1
+    /
+
+    / 179603
+    /
+
+    /
+  * 15:27	*Жертва шлюбу, або Як дружина перетворила життя форварда
+    Бангура на пекло*
+    <https://sport.ua/uk/news/475760-zhertva-brachnyh-uz-ili-kak-zhena-prevratila-zhizn-eks-dinamovtsa-bangura-v-ad>
+    // // - Футбол 40
+    /
+
+    / 55254
+    /
+
+    /
+  * 18:10	*Зимові збори клубів УПЛ-2020: розклад та результати
+    контрольних матчів*
+    <https://sport.ua/uk/news/473207-zimnie-sbory-klubov-upl-2020-raspisanie-i-rezultaty-kontrolnyh-matchey>
+    - Футбол 5
+    /
+
+    / 30440
+    /
+
+    /
+  * 09:36	*Дружина Брайанта прокоментувала загибель Кобі і своєї доньки*
+    <https://sport.ua/uk/news/475710-zhena-brayanta-prokommentirovala-gibel-kobi-i-svoey-docheri>
+    - Баскетбол 5
+    /
+
+    / 30399
+    /
+
+    /
+  * 10:20	*«Шо, знов?». Дитячі помилки Підгрушної та Бех стають
+    мейнстрімом*
+    <https://sport.ua/uk/news/475735-sho-opyat-detskie-oshibki-pidgrushnoy-i-beh-stanovyatsya-meynstrimom>
+    // // - Біатлон 7
+    /
+
+    / 22995
+    /
+
+    /
+  * 12:00	*Роджер Федерер - Новак Джокович. Дивитися онлайн. LIVE
+    трансляція*
+    <https://sport.ua/uk/news/475699-rodzher-federer-novak-dzhokovich-smotret-onlayn-live-translyatsiya>
+    // - Теніс 27
+    /
+
+    / 20606
+    /
+
+    /
+  * 06:00	*Шахтар не відпускає Тайсона, гелікоптер Кобі Брайанта
+    врізався в пагорб*
+    <https://sport.ua/uk/news/475696-shahter-ne-otpuskaet-taysona-vertolet-kobi-brayanta-vrezalsya-v-holm>
+    - Інші новини 16322
+    /
+
+    /
+  * 09:00	*Шахтар – Словацко – 1:0. Текстова трансляція матчу*
+    <https://sport.ua/uk/news/475597-shahter-slovatsko-1-0-tekstovaya-translyatsiya-matcha>
+    - Футбол 28
+    /
+
+    / 12794
+    /
+
+    /
+  * 01:35	*ВІДЕО. Неймовірний гол бісіклетою від молодого таланту
+    Ліверпуля*
+    <https://sport.ua/uk/news/475803-video-neveroyatniy-gol-bisikletoy-ot-molodogo-talanta-liverpulya>
+    // - Футбол 3
+    /
+
+    / 12277
+    /
+
+    /
+  * 17:00	*Арсенал підписав захисника. Останній день трансферного вікна.
+    LIVE*
+    <https://sport.ua/uk/news/475850-barselona-podpisala-forvarda-posledniy-den-transfernogo-okna-live>
+    // - Футбол 11921
+    /
+
+    /
+
+  * Футбол <https://sport.ua/uk/football>
+  * ЧС-2018 <https://sport.ua/uk/worldcup2018>
+  * Ліга Чемпіонів <https://sport.ua/uk/cl> | Таблиця
+    <https://sport.ua/uk/cl/results/fixture>
+  * Ліга Європи <https://sport.ua/uk/uefa> | Таблиця
+    <https://sport.ua/uk/uefa/results/fixture>
+  * Ліга націй <https://sport.ua/uk/nationsleague> | Таблиця
+    <https://sport.ua/uk/nationsleague/results/fixture>
+  * Євро-2020 <https://sport.ua/uk/euro> | Таблиця
+    <https://sport.ua/uk/euro/results/fixture>
+  * Кубок України <https://sport.ua/uk/cup>
+  * Кубок Америки <https://sport.ua/uk/copa-america>
+  * Кубок Африки <https://sport.ua/uk/africancup>
+  * Україна <https://sport.ua/uk/4u> | Таблиця
+    <https://sport.ua/uk/football/results/ukraine/1/fixture>
+  * Англія <https://sport.ua/uk/football/england> | Таблиця
+    <https://sport.ua/uk/football/results/england/16/fixture>
+  * Німеччина <https://sport.ua/uk/football/germany> | Таблиця
+    <https://sport.ua/uk/football/results/germany/14/fixture>
+  * Іспанія <https://sport.ua/uk/football/spain> | Таблиця
+    <https://sport.ua/uk/football/results/spain/17/fixture>
+
+  * Італія <https://sport.ua/uk/football/italy> | Таблиця
+    <https://sport.ua/uk/football/results/italy/13/fixture>
+  * Росія <https://sport.ua/uk/football/russia> | Таблиця
+    <https://sport.ua/uk/football/results/russia/12/fixture>
+  * Франція <https://sport.ua/uk/football/france> | Таблиця
+    <https://sport.ua/uk/football/results/france/15/fixture>
+  * Нідерланди <https://sport.ua/uk/football/results/holland/107/fixture>
+  * Португалія <https://sport.ua/uk/football/results/portugal/106/fixture>
+  * Польща <https://sport.ua/uk/football/results/poland/105/fixture>
+  * Туреччина <https://sport.ua/uk/football/results/turkey/108/fixture>
+  * Греція <https://sport.ua/uk/football/results/greece/110/fixture>
+  * Румунія <https://sport.ua/uk/football/results/romania/127/fixture>
+  * Бельгія <https://sport.ua/uk/football/results/belgium/111/fixture>
+  * Аргентина <https://sport.ua/uk/football/results/argentina/109/fixture>
+  * Бразилія <https://sport.ua/uk/football/results/brazil/117/fixture>
+  *  
+  * Спортивний календар
+    <https://sport.ua/uk/news/472501-sportivniy-kalendar-na-2020-god>
+  * Спортивна ТВ-програма <https://sport.ua/uk/tv>
+
+  * Динамо Київ <https://sport.ua/uk/football/teams/4-dinamo-kiev>
+  * Дніпро <https://sport.ua/uk/football/teams/5-dnepr-dn>
+  * Металіст <https://sport.ua/uk/football/teams/3-metallist>
+  * Шахтар Донецьк <https://sport.ua/uk/football/teams/2-shahter-donetsk>
+  * Баварія <https://sport.ua/uk/football/teams/55-bavariya>
+  * Барселона <https://sport.ua/uk/football/teams/118-barselona>
+  * Реал Мадрид <https://sport.ua/uk/football/teams/117-real-madrid>
+  * Арсенал <https://sport.ua/uk/football/teams/91-arsenal>
+  * Манчестер Сіті <https://sport.ua/uk/football/teams/100-man-siti>
+  * Манчестер Юнайтед <https://sport.ua/uk/football/teams/101-man-yunayted>
+  * Челсі <https://sport.ua/uk/football/teams/109-chelsi>
+  * Мілан <https://sport.ua/uk/football/teams/40-milan>
+  * Інтер <https://sport.ua/uk/football/teams/36-inter-milan>
+  * Ювентус <https://sport.ua/uk/football/teams/50-yuventus>
+
+  * Автоспорт <https://sport.ua/uk/auto>
+  * Баскетбол <https://sport.ua/uk/basketball>
+  * Біатлон <https://sport.ua/uk/biathlon>
+  * Бокс <https://sport.ua/uk/box>
+  * Волейбол <https://sport.ua/uk/volleyball>
+  * Футзал <https://sport.ua/uk/futsal>
+  * Пляжний футбол <https://sport.ua/uk/beachsoccer>
+  * Кіберспорт <https://sport.ua/uk/cyber>
+  * Зимові види <https://sport.ua/uk/winter>
+  * Американський футбол <https://sport.ua/uk/amfoot>
+  * Теніс <https://sport.ua/uk/tennis>
+  * Формула 1 <https://sport.ua/uk/auto/formula-1>
+  * MMA <https://sport.ua/uk/mma>
+  * Кросфіт <https://sport.ua/uk/crossfit>
+  * Снукер <https://sport.ua/uk/snooker>
+
+  * Хокей <https://sport.ua/uk/hockey>
+  * Художня гімнастика <https://sport.ua/uk/rg>
+  * Олімпійські ігри <https://sport.ua/uk/olympic>
+  * Інші види <https://sport.ua/uk/other>
+
+  * Ставки на спорт <https://sport.ua/uk/betting>
+  * Рейтинг букмекерів <https://sport.ua/uk/betting/bookmakers>
+  * - 1xBet <https://sport.ua/uk/betting/bookmakers/1xbet>
+  * - Melbet <https://sport.ua/uk/betting/bookmakers/melbet>
+  * - Parimatch <https://sport.ua/uk/betting/bookmakers/parimatch>
+  * - Mostbet <https://sport.ua/uk/betting/bookmakers/mostbet>
+  *  
+  * Матеріали партнерів <https://sport.ua/uk/partners>
+  * Календар новин <https://sport.ua/uk/news/calendar>
+  * Наші репортери <https://sport.ua/uk/reporters>
+
+  * Політика конфіденційності
+    <https://sport.ua/uk/confidentiality-agreement>
+  * Реклама на сайті <https://sport.ua/uk/advertising>
+  * Контакти <https://sport.ua/uk/contacts>
+
+  * <https://www.facebook.com/thesportua>
+  * <https://t.me/joinchat/AAAAAE8zcQmXKhJx0Jw4jQ>
+  * <https://www.youtube.com/c/sportua>
+  * <https://www.instagram.com/sportua/>
+
+© 2003-2020 Sport.ua
+<https://www.liveinternet.ru/click>
+
+Всі права захищені. При використанні текстових матеріалів сайту
+гіперпосилання на Sport.ua обов'язкове. Для друкованих видань вказівка
+Sport.ua обов'язкова. Використання фотоматеріалів сайту без письмового
+дозволу редакції заборонено. Редакція може не поділяти точку зору
+авторів і не несе відповідальності за авторські матеріали.
+<#>
+Вхід
+Авторизуйтесь, щоб скористатися персональними налаштуваннями і зберігати
+свої коментарі з будь-якого пристрою
+Логін
+Пароль
+Забули пароль? <#>
+Увійти
+
+Увійти за допомогою:
+
+Ще немає облікового запису?
+
+Реєстрація <#>
+<#>
+Реєстрація
+Логін
+E-mail
+Пароль
+Повторіть пароль
+Я прочитав і згоден з Політикою конфіденційності
+<https://sport.ua/uk/confidentiality-agreement>
+Реєстрація
+
+<#>
+Реєстрація
+На вказаний вами e-mail відправлено лист з підтвердженням реєстрації.
+Дотримуйтесь інструкцій в листі.
+<#>
+Реєстрація
+Дякуємо за реєстрацію. Ви успішно активували аккаунт.
+<#>
+Відновлення паролю
+Для відновлення пароля вкажіть e-mail адресу, яку ви використовували при
+реєстрації. На цю адресу ми відправимо ваш пароль:
+E-mail
+НАДІСЛАТИ
+
+<#>
+Відновлення паролю
+На вказаний вами e-mail відправлено лист з інструкціями по відновленню
+пароля
+<#>
+Відновлення паролю
+Введіть ваш новий пароль:
+Пароль
+Повторіть новий пароль
+Зберегти
+
+<#>
+Відновлення паролю
+Новий пароль успішно збережений. Щоб продовжити, увійдіть з новим паролем
+Продовжуючи переглядати SPORT.UA, Ви підтверджуєте, що ознайомилися з
+Політикою конфіденційності <https://sport.ua/uk/confidentiality-agreement>
+Система Orphus <https://orphus.ru/>
+
+  * Viber
+    <viber://forward?text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2'%D1%8F%C2%BB%20https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+  * WhatsApp
+    <https://api.whatsapp.com/send?text=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB%20https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+  * Skype
+    <https://web.skype.com/share?url=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+  * LiveJournal
+    <https://www.livejournal.com/update.bml?subject=%D0%A8%D0%95%D0%92%D0%A7%D0%95%D0%9D%D0%9A%D0%9E%3A%20%C2%AB%D0%9C%D0%B8%20%D0%B4%D1%83%D0%B6%D0%B5%20%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%20%D0%B2%D1%96%D0%B4%20%D0%B3%D1%80%D0%B0%D0%B2%D1%86%D1%96%D0%B2%2C%20%D0%B2%D1%96%D0%B4%20%D1%97%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%2C%20%D1%81%D1%82%D0%B0%D0%BD%D1%83%20%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F%C2%BB&event=https%3A%2F%2Fsport.ua%2Fuk%2Fnews%2F475856-shevchenko-my-ochen-zavisimy-ot-igrokov-ot-ih-formy-sostoyaniya-zdorovya&utm_source=share2>
+
